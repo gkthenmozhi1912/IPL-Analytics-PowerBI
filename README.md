@@ -32,3 +32,4 @@ Data Visualization
 Business Intelligence
 Analytical Thinking
 
+![IPL Dashboard](Dashboard.png)
